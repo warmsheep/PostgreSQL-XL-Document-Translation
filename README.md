@@ -3,7 +3,7 @@ PostgreSQL-XL官方文档翻译
 
 * 00.前言
   * [PostgreSQL是什么?](00.前言/PostgreSQL是什么.md)
-  * Postgres-XL是什么?
+  * [Postgres-XL是什么?](00.前言/Postgres-XL是什么.md)
   * 简短的PostgreSQL历史
   * 约定
   * 进一步的信息
